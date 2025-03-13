@@ -1,4 +1,4 @@
-# Chat Loop Back Off Ep. 50 - Tektok Pipelines 
+# Chat Loop Back Off Ep. 50 - Tekton Pipelines 
 
 Origin:
 Tekton started as a project within Google's Knative initiative, focused on building cloud-native CI/CD systems. 
