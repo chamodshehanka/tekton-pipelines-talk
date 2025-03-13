@@ -44,5 +44,9 @@ Install the [Tekton CLI](https://tekton.dev/docs/cli/), `tkn`, on your machine.
 https://tekton.dev/docs/dashboard/install/
 
 ```shell
+kubectl --namespace tekton-pipelines port-forward svc/tekton-dashboard 9097:9097
+```
+or
+```shell
 tkn dashboard --port-forward
 ```
